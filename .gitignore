@@ -1,9 +1,6 @@
 # compiled output
-node_modules
-bin/
-build/
-module/SQLite/temporary.database.sqlite
-output/
+*.exe
+*.pdb
 
 # Logs
 logs
